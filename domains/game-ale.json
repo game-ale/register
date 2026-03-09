@@ -2,7 +2,7 @@
     "owner": {
         "username": "game-ale"
     },
-    "record": {
+    "records": {
         "CNAME": "game-game-ale.vercel.app"
     }
 }
